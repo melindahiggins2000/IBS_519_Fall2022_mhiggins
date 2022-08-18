@@ -1,4 +1,4 @@
-# Emory IBS 519 Guest Lectures
+# Emory IBS 519 Guest Lectures: Fall 2022
 {:.no_toc}
 
 -----
@@ -49,3 +49,16 @@ Today's class will cover
 
 * Slides
 * RStudio Cloud Project - in class exercises
+
+# R/RStudio Resources
+
+* [RStudio Education](https://education.rstudio.com/)
+* [Quick-R](https://www.statmethods.net/)
+* [Datacamp](https://www.datacamp.com/)
+* [R for SAS Users - My Datacamp Course](https://www.datacamp.com/courses/r-for-sas-users)
+* [Coursera](https://www.coursera.org/)
+* [Reproducible Templates for Analysis and Dissemination - My Coursera Course](https://www.coursera.org/learn/reproducible-templates-analysis)
+* [Emory N741](https://melindahiggins2000.github.io/N741bigdata/)
+* [Emory N736](https://melindahiggins2000.github.io/N736/)
+* [Book: Statistical Inference via Data Science](https://moderndive.com/)
+* [Book: The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
