@@ -10,47 +10,74 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 * TOC 1
 {:toc}
 
-# Week 1 Lecture 02: Reproducible Research, Getting Started with R & RStudio
+# Week 1 Lecture 02: Intro to R, RStudio and Rmarkdown
 
 Today's class will cover:
 
-* Reproducible Research (data + analysis + documentation, best practices/pipeline/workflow)
-* Explore RStudio IDE
-* Viewing or Creating data (and other objects)
-* Global environment
-* R packages
-* R markdown - brief intro
-* Abalone dataset 
+* Explore RStudio environment
+    - command line
+    - R scripts
+    - packages
+    - getting help 
+* R markdown intro (brief)
+* Importing & viewing data
+    - abalone dataset
+    - str(), dim(), head(), tail()
+* Data types - classes of variables
+    - strings
+    - integers
+    - numeric
+    - logical
+    - factors (brief intro)
 
 ## Materials
 
 * Slides
 * RStudio Cloud Project - in class exercises
 
-# Week 3 Lecture 06: Data import/export, types of data and data exploration
+# Week 3 Lecture 06: Data Exploration and Wrangling
 
 Today's class will cover:
 
-* aaa
-
+* Data exploration
+    - descriptive statistics, numerical exploration
+    - graphical exploration
+        - histograms
+        - scatterplots
+* Tidyverse - dyplr _[working with abalone dataset]_
+    - glimpse
+    - select
+    - filter (explore and clean)
+    - arrange
+    - mutate (making new variables)
+    - rename
+    - summarise
+    - group_by
+    
 ## Materials
 
 * Slides
 * RStudio Cloud Project - in class exercises
 * RStudio Cloud Project - Homework 3
 
-# Week 4 Lecture 08: Data wrangling (cleaning, ordering, filtering, modification)
+# Week 4 Lecture 08: Reproducible Research
 
-Today's class will cover
+Today's class will cover:
 
-* aaa
+* Learn about reproducible research workflows
+* Make your life easier with Rmarkdown
+    - make DOCX and HTML reports (PDF optional)
+    - turn last week's in-class exercise code and turn it into a report
+* Writing a step-by-step analysis report 
+    - knitr package
+    - printr package
 
 ## Materials
 
 * Slides
 * RStudio Cloud Project - in class exercises
 
-# R/RStudio Resources
+# R/RStudio Helpful Resources
 
 * [RStudio Education](https://education.rstudio.com/)
 * [Quick-R](https://www.statmethods.net/)
