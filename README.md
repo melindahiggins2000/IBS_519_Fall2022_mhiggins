@@ -68,7 +68,7 @@ Today's class will cover:
 * RStudio Cloud Project - in class exercises
 * RStudio Cloud Project - Homework 3
 
-# Week 4 Lecture 08: Reproducible Research
+# Week 4 Lecture 08: Reproducible Research and RMarkdown
 
 Today's class will cover:
 
