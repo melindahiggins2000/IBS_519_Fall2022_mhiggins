@@ -32,8 +32,10 @@ Today's class will cover:
 
 ## Materials
 
-* Slides
-* RStudio Cloud Project - in class exercises
+* RStudio Cloud Project "IBS_519_wk1_lecture02_mhiggins"
+    - three R scripts
+    - and simple Rmarkdown report to get started
+    - stored on [Github](https://github.com/melindahiggins2000/IBS_519_wk1_lecture02_mhiggins)
 
 # Week 3 Lecture 06: Data Exploration and Wrangling
 
