@@ -90,11 +90,21 @@ Today's class will cover:
 
 # R/RStudio Helpful Resources
 
+* [Download: R from CRAN](https://cran.r-project.org/)
+    - This is where you can download the R language software for FREE for your own computer.
+    - Choose your operating system (Mac OS or Windows or Linux/Unix)
+    - NOTE: For Windows, you should also download and install [Rtools](https://cran.r-project.org/bin/windows/) - this is technically optional, but is useful to have. Make sure to download the one for your R version.
+    
+* [Download: RStudio IDE Desktop](https://www.rstudio.com/products/rstudio/download/#download)
+    - Note: Windows is listed at the top - just scroll down to see the installer for the Mac OS as well. There are also installers for the versions of Linux/Unix.
+
 * [RStudio Education](https://education.rstudio.com/)
 * [RStudio Cloud Tutorials](https://rstudio.cloud/learn/primers)
-* [Quick-R](https://www.statmethods.net/)
-* [Datacamp](https://www.datacamp.com/)
+* [** Quick-R **](https://www.statmethods.net/)
 * [Rmarkdown Tutorial](https://rmarkdown.rstudio.com/lesson-1.html)
+* [tidyverse](https://www.tidyverse.org/)
+
+* [Datacamp](https://www.datacamp.com/)
 * [R for SAS Users - My Datacamp Course](https://www.datacamp.com/courses/r-for-sas-users)
 * [Coursera](https://www.coursera.org/)
 * [Reproducible Templates for Analysis and Dissemination - My Coursera Course](https://www.coursera.org/learn/reproducible-templates-analysis)
@@ -102,3 +112,5 @@ Today's class will cover:
 * [Emory N736](https://melindahiggins2000.github.io/N736/)
 * [Book: Statistical Inference via Data Science](https://moderndive.com/)
 * [Book: The Epidemiologist R Handbook](https://epirhandbook.com/en/index.html)
+* [Book/Course: Stat 545](https://stat545.com/)
+
