@@ -36,8 +36,14 @@ Today's class will cover:
     - three R scripts
     - and simple Rmarkdown report to get started
     - stored on [Github](https://github.com/melindahiggins2000/IBS_519_wk1_lecture02_mhiggins)
+* Optional: [Introduction to R Objects](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToRObjects_mkh.html#1)
+* Optional: [R Objects - Brief Overview of Factors](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_RObjectsFactors_mkh.html#1)
+* Optional: [Intro to ggplot2 (i.e. week 2)](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToGgplot2_mkh.html#1)
+* Optional: 
+    - [Intro to Data Wrangling with dplyr (i.e. week 3)](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToDataWrangling_mkh.html#1)
+    - [Another Intro to dplyr](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
 
-# Week 3 Lecture 06: Data Exploration and Wrangling
+# Week 3 Lecture 06: Data Exploration and Wrangling (with dplyr)
 
 Today's class will cover:
 
