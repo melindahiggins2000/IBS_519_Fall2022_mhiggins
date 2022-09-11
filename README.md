@@ -14,7 +14,7 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 
 # Week 1 Lecture 02: Intro to R, RStudio and Rmarkdown
 
-Today's class will cover:
+## Today's class will cover:
 
 * Explore RStudio environment
     - command line
@@ -49,7 +49,7 @@ Today's class will cover:
 
 # Week 3 Lecture 06: Data Exploration and Wrangling (with dplyr)
 
-Today's class will cover:
+## Today's class will cover:
 
 * Data exploration
     - numerical exploration
