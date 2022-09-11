@@ -87,7 +87,7 @@ Today's class will cover:
 
 # Week 4 Lecture 08: Reproducible Research and RMarkdown
 
-Today's class will cover:
+## Today's class will cover:
 
 * Make your life easier with [Rmarkdown](https://rmarkdown.rstudio.com/)
     - [Rmarkdown Output Options](https://rmarkdown.rstudio.com/gallery.html)
@@ -112,7 +112,7 @@ Today's class will cover:
             * [https://www.overleaf.com/](https://www.overleaf.com/)
 
 
-### Materials for wk4
+## Materials for wk4
 
 RStudio Cloud Project "IBS_519_wk4_lecture08_mhiggins" - files explained:
 
