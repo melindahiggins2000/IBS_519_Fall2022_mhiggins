@@ -10,6 +10,8 @@ by Melinda Higgins, PhD; [https://melindahiggins.netlify.app/](https://melindahi
 * TOC 1
 {:toc}
 
+-----
+
 # Week 1 Lecture 02: Intro to R, RStudio and Rmarkdown
 
 Today's class will cover:
@@ -42,6 +44,8 @@ Today's class will cover:
 * Optional: 
     - [Intro to Data Wrangling with dplyr (i.e. week 3)](https://melindahiggins2000.github.io/N741_Spring2021_lesson04_dataWranglingDplyr/N741_IntroductionToDataWrangling_mkh.html#1)
     - [Another Intro to dplyr](https://melindahiggins2000.github.io/CDC_Rworkshop_April2022/CDCRworkshop_April2022_Module04.html#1)
+
+-----
 
 # Week 3 Lecture 06: Data Exploration and Wrangling (with dplyr)
 
@@ -79,6 +83,8 @@ Today's class will cover:
   - see "Assignment3_HW3_DataWrangling_Cleaning" on RStudio.cloud
   - also see [Github repository](https://github.com/melindahiggins2000/IBS_519_Fall2022_HW3)
 
+-----
+
 # Week 4 Lecture 08: Reproducible Research and RMarkdown
 
 Today's class will cover:
@@ -106,7 +112,7 @@ Today's class will cover:
             * [https://www.overleaf.com/](https://www.overleaf.com/)
 
 
-## Materials
+### Materials for wk4
 
 RStudio Cloud Project "IBS_519_wk4_lecture08_mhiggins" - files explained:
 
@@ -156,11 +162,12 @@ Packages needed:
 
 * review the `order_sort_arrange.R` scipt
 
-## More resources:
-    - [`knitr` package](https://cran.r-project.org/web/packages/knitr/index.html)
-    - [`printr` package](https://cran.r-project.org/web/packages/printr/)
+### More resources:
 
----
+* [`knitr` package](https://cran.r-project.org/web/packages/knitr/index.html)
+* [`printr` package](https://cran.r-project.org/web/packages/printr/)
+
+-----
 
 # R/RStudio Helpful Resources
 
