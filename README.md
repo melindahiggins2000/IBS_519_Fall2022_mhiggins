@@ -83,19 +83,84 @@ Today's class will cover:
 
 Today's class will cover:
 
-* Learn about reproducible research workflows
 * Make your life easier with [Rmarkdown](https://rmarkdown.rstudio.com/)
     - [Rmarkdown Output Options](https://rmarkdown.rstudio.com/gallery.html)
-    - make DOCX and HTML reports (PDF optional)
-    - turn last week's in-class exercise code and turn it into a report
+    - [RMarkdown Formats](https://rmarkdown.rstudio.com/formats.html)
 * Writing a step-by-step analysis report 
-    - [`knitr` package](https://cran.r-project.org/web/packages/knitr/index.html)
-    - [`printr` package](https://cran.r-project.org/web/packages/printr/)
+    - make DOCX and HTML reports (PDF optional)
+* Using parameters - automate your work - learn more at:
+    - [RMarkdown: Definitive Guide, Ch 15](https://bookdown.org/yihui/rmarkdown/parameterized-reports.html)
+    - [RMarkdown Cookbook: Ch 17.4](https://bookdown.org/yihui/rmarkdown-cookbook/parameterized-reports.html)
+    
+* Making other "Rmarkdown" formats
+    - see [Rmarkdown Galley](https://rmarkdown.rstudio.com/gallery.html)
+    - Documents (HTML, DOC and PDF - see notes below)
+    - Slides (HTML slidy and ioslides; PDF Beamer; and Microsoft Powerpoint PPT)
+    - and other templates - see RMarkdown Gallery to learn more
+* more on making PDF documents:
+    - PDF requires some version of LaTeX - easiest is installing the `tinytex` package
+        - see [https://yihui.org/tinytex/](https://yihui.org/tinytex/)
+        - after installing the `tinytex` package, you still have to run `tinytex::install_tinytex()` to actually install the tinytex program with all of the LaTeX packages.
+        - Learn more about LaTeX at:
+            * [https://www.latex-project.org/](https://www.latex-project.org/)
+            * [https://www.overleaf.com/](https://www.overleaf.com/)
+
 
 ## Materials
 
-* Slides
-* RStudio Cloud Project - in class exercises
+RStudio Cloud Project "IBS_519_wk4_lecture08_mhiggins" - files explained:
+
+This project is also posted in Github at [https://github.com/melindahiggins2000/IBS_519_wk4_lecture08_mhiggins](https://github.com/melindahiggins2000/IBS_519_wk4_lecture08_mhiggins)
+
+### Main Examples Today:
+
+Files:
+
+* 01_Basic_RmarkdownReport.Rmd
+* 02_Default_RmarkdownTemplate.Rmd
+    - make reports (HTML, DOCX and PDF)
+    - make slides (slidy, ioslides, beamer and PPT)
+* 03_AbaloneReport_simple.Rmd
+* 04_AbaloneReport_paramTemplate.Rmd
+* 05_AbaloneReport_paramInYAML.Rmd
+* 06_AbaloneReport_param_UserInput.Rmd
+
+Packages used in main examples today:
+
+* `tidyverse` (includes `readr`, `dplyr`, `ggplot2`)
+* `knitr`
+* `printr`
+* `rmarkdown`
+* `purrr`
+* `gtsummary`
+
+### IF TIME - optional demos:
+
+Files:
+
+* rmdformats_readthedown.Rmd
+* flexdashboard.Rmd
+* EDA_tools.Rmd
+
+Packages needed:
+
+* For EDA_tools.Rmd
+    - `skimr`
+    - `summarytools`
+* For rmdformats_readthedown.Rmd
+    - `rmdformats`
+* For flexdashboard.Rmd
+    - `flexdashboard`
+
+### Follow-up from wk3
+
+* review the `order_sort_arrange.R` scipt
+
+## More resources:
+    - [`knitr` package](https://cran.r-project.org/web/packages/knitr/index.html)
+    - [`printr` package](https://cran.r-project.org/web/packages/printr/)
+
+---
 
 # R/RStudio Helpful Resources
 
